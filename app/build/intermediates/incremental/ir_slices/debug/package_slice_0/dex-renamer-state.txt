@@ -1,0 +1,4 @@
+#Tue Dec 04 15:06:59 IST 2018
+base.0=C\:\\Users\\Nir\\AndroidStudioProjects\\CameraVit\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
